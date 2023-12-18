@@ -20,3 +20,5 @@ How to Run:
 - Just connect the Metamask wallet if you redeployed and change its private key inside the `.env` file.
 
 - Then you would be able to see the conversion prices: 
+
+![alt text](images/ConverterUI.png)
